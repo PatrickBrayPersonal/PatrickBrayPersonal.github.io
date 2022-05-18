@@ -1,7 +1,7 @@
 ## Patrick Bray
 
 ### Contact Info
-[Email](patrickbray17@gmail.com)
+Email: patrickbray17@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/patrick-bray-75b021115/)
 
@@ -25,4 +25,4 @@ Trained a 2-player soccer team to compete against pre-trained agents using Multi
 
 *Reinforcement Learning, Deep Learning, RLLib*
 
-For paper and code contact me via [email](patrickbray17@gmail.com)
+For paper and code contact me via email
