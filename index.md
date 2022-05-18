@@ -5,6 +5,8 @@ Email: patrickbray17@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/patrick-bray-75b021115/)
 
+[Resume](https://github.com/PatrickBrayPersonal/PatrickBrayPersonal.github.io/blob/main/Patrick%20Bray%20Resume.pdf)
+
 ### Projects
 #### Fantasy Football Simulation
 Developed a fantasy football season simulator to predict league outcomes.
