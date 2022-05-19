@@ -1,5 +1,4 @@
-## Patrick Bray
-
+*This site is currently under development*
 ### Contact Info
 Email: patrickbray17@gmail.com
 
