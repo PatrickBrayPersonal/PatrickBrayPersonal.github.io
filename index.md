@@ -27,3 +27,21 @@ Trained a 2-player soccer team to compete against pre-trained agents using Multi
 *Reinforcement Learning, Deep Learning, RLLib*
 
 For paper and code contact me via email
+
+## Media
+### Fiction
+* Stormlight Archive
+* Foundation and Robot Series
+* Sword of Kaigen
+* Gates of Fire
+### Non-Fiction
+* Longitude
+* Superforecasters
+* How Not to Be Wrong
+* The Signal and the Noise
+* Algorithms to Live By
+### Blogs
+[The Bitter Lesson - Richard Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+[The Bandwagon - Claude Shannon](https://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=1056774)
+### Podcasts
+[Robot Brains with Pieter Abbeel](https://www.therobotbrains.ai/)
