@@ -11,12 +11,7 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
-        working-directory: garden
     steps:
-      - run: cd ../garden
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
@@ -24,9 +19,9 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: cd garden && npm install --frozen-lockfile
+        run: npm install --frozen-lockfile
       - name: Build website
-        run: cd garden && npm build
+        run: npm build
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
