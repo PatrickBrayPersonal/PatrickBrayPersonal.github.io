@@ -23,9 +23,9 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm install --frozen-lockfile
+        run: cd garden && npm install --frozen-lockfile
       - name: Build website
-        run: npm build
+        run: cd garden && npm build
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
