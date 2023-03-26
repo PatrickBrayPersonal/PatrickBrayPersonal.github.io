@@ -1,7 +1,5 @@
 name: Deploy to GitHub Pages
-defaults:
-  run:
-    working-directory: garden
+
 on:
   push:
     branches:
@@ -11,6 +9,9 @@ on:
 
 jobs:
   deploy:
+    defaults:
+    run:
+      working-directory: garden
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
