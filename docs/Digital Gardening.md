@@ -4,3 +4,6 @@
 
 ### Inspiration
 https://refinedmind.co/
+
+[Hacker News Blog Thread](https://news.ycombinator.com/item?id=35164819)
+

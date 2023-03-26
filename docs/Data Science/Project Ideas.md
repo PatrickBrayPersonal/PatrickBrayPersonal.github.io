@@ -1,0 +1,9 @@
+- Predict what days of the year an Airbnb is likely to sell  
+- Wake up times in different cities d3  
+	- city profile that includes street orientations  
+- RL / OR for flight rescheduling  
+- Google location data for flight wait times  
+- Simulated boarding and unboarding airplane  
+- dimensionality reduction for food nutrients  
+- mapping clothes to microplastic emissions in wash  
+- Futurism blog

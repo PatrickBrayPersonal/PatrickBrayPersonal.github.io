@@ -1,0 +1,11 @@
+Iceland  
+London  
+Madeira  
+Amsterdam  
+Nice  
+Marseilles  
+Rome  
+Florence  
+Amalfi  
+Ireland  
+Newfoundland

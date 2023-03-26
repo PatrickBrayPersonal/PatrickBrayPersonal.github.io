@@ -3,3 +3,12 @@
 An abundance mindset for ideas (letting old ones go to make room for new ones) over a scarcity mindset leads to more and better ideas.
 
 Garbage in garbage out applies to people too. Be careful to consume diverse and honest information
+
+## SuperForecasters
+
+## How to Not Be Wrong
+
+## Algorithms to Live By
+
+## The Signal and the Noise - Nate Silver
+
