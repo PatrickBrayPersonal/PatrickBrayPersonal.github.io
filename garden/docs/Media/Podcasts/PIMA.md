@@ -1,6 +1,5 @@
-# Podcasts
-## PIMA
-### 86: Million Dollar View on Morality
+# PIMA
+## 86: Million Dollar View on Morality
 Philosopher Will MacAskill
 Advocates for effective altruism and how 80M humans live on less than $2 a day. I spend $2 on so much stupid shit. Think about the good one could do by giving away money correctly.
 
@@ -20,9 +19,21 @@ The population of Hiroshima was returned to pre-bomb levels within 13 years. Hum
 More people with lower levels of quality of life can be proven to be better than a smaller world iwth high quality of life. 
 [[Fiction##The Naked Sun]]
 
-### 87: How much are the Right Friends worth
+## 87: How much are the Right Friends worth
 prodigy Raj Chetty shows that just knowing and associating with rich people will increase your lifetime success. Regardless of your parent's income levels. Economic mobility increases greatly in areas where there is more interspersal of people accross economic backgrounds.
-## Freakonomics Radio
-### 533: Will the Democrats Make America Great Again
-the US secretary of commerce talks about the [[CHIPS Act]] stressing its importance to national security.
 
+
+## 81: why bother searching for aliens  
+  
+The fact that we haven’t found intelligent life does not bode well for our species future. If contiued growth is possible surely we would have heard someone already. Barring dark forest.
+
+If an alien civilization is advanced enough to kill us. They must have been peaceful enough not to blow each other up.  
+[[Fiction#Three-Body Problem Series]]
+
+  
+## 71: Bombs Away  
+“Deterrence Theory” only works in the case of irrational actors.  
+If russia were to launch nuclear missiles at Ukraine, the US would be irrational to respond with nuclear force.
+[[Fiction#Three-Body Problem Series]]
+
+The existence of Nukes is detrimental to US geopolitical leverage.
