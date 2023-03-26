@@ -1,5 +1,7 @@
 name: Deploy to GitHub Pages
-
+defaults:
+  run:
+    working-directory: garden
 on:
   push:
     branches:
