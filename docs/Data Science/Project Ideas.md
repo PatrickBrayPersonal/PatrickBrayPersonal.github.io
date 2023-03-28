@@ -6,4 +6,10 @@
 - Simulated boarding and unboarding airplane  
 - dimensionality reduction for food nutrients  
 - mapping clothes to microplastic emissions in wash  
-- Futurism blog
+- RL for intrusion detection
+- Use dimensionality reduction to map countries to each other, accross years too. See if you can use data to answer (does history repeat itself?)
+	- Population curves  
+	- GDP etc
+- RL for student teacher learning  
+	- providing different responses based on students current understanding
+- 
