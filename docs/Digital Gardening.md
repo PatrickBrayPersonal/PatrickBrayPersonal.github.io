@@ -6,5 +6,3 @@
 https://refinedmind.co/
 
 [Hacker News Blog Thread](https://news.ycombinator.com/item?id=35164819)
-
-- [ ] Build a job that converts your obsidian links to real links in the internet

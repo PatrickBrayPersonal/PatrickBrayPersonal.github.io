@@ -1,9 +1,14 @@
-Skull (3-6)  
-Avalon (5-6)  
-Kill the landlord (3) gambling?  
-Gin Rummy (2-3)  
-Egyptian Ratscrew (2-6)  
-Briscola Chiamata (5) gambling?  
-Cribbage (2)  
-Bourre (5-8) chips. Gambling.  
-Oh Hell
+| Game               | Players | Gambling |
+| ------------------ | ------- | -------- |
+| Skull              | 3-6     | No       |
+| Avalon             | 5-6     | No       |
+| Kill the Landlaord | 3       | Yes      |
+| Gin Rummy          | 2-3     | No       |
+| Egyptian Ratscrew  | 2-6     | No       |
+| Briscola Chiamata  | 5       | Yes      |
+| Cribbage           | 2       | No       |
+| Bourre             | 5-8     | Yes      |
+| Oh Hell            | 2+      | No       |
+| German Whist       | 2       | No       |
+
+
