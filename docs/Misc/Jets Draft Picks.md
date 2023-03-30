@@ -1,4 +1,4 @@
-These are the picks I would have *rather* the jets made than what they did
+These are the picks I would have *rather* the jets made than what they did. My picks are made at the same time the jets pick.
 
 # 2022
 | Year | Round | Pick              | My Pick       | Jets Pick |

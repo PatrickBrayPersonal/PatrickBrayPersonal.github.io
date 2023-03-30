@@ -13,11 +13,11 @@ kanban-plugin: basic
 - [ ] 3. Work on the landing page
 - [ ] Delete the blog
 - [ ] change the icon to something better
-- [ ] change the name to Coppermind
 
 
 ## IN PROGRESS
 
+- [ ] change the name to Coppermind
 
 
 ## COMPLETE
