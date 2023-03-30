@@ -12,4 +12,5 @@
 	- GDP etc
 - RL for student teacher learning  
 	- providing different responses based on students current understanding
-- 
+- Analyze Satelitte imagery for parking spots. run streaming. demonstrate ability to do this in production.
+- Fine tuned LLM on government RFPs

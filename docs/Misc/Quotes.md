@@ -9,7 +9,11 @@ Education is what, when, and why to do things. Training is how to do it. - Richa
 Let all your things have their places let each part of your business have its time - Ben Franklin
 
 Perfection is achieved not when there is nothing left to add but when there is nothing left to take away - wind sand and stars
+
 I have so much left I want to do. I hate wasting time - Steven Hawking
+
+“If I only had an hour to chop down a tree, I would spend the first 45 minutes sharpening my axe.” – Abraham Lincoln
+
 
 ## Misc
 Choose again - Dan Simmons, Rise of Endymion

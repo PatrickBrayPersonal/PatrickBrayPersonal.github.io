@@ -7,6 +7,12 @@
 [[WSJ Future of Everything#Fixing the Microplastics Problem in Clothes]]
 
 # Data: I write every physical object I buy
-| Item | Material | Mass | Date |
-| ---- | -------- | ---- | ---- |
-|      |          |      |      |
+| Item            | Material | Date     |
+| --------------- | -------- | -------- |
+| Bag of Pretzels | Plastic  | 20230328 |
+|                 |          |          |
+|                 |          |          |
+|                 |          |          |
+
+
+``
