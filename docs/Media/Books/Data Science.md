@@ -27,6 +27,8 @@ The [Good Judgement Project](https://goodjudgment.com/) ran a prediction challen
 Horror stories of data leaking, models breaking in production, manual workflows at companies give me faith that **I'm not the only one struggling**.
 Streaming data is a totally different animal, it is important that your data transforms are the **same in training as in inference**.
 
+- [ ] Review/summarize this book (@2023-05-17)  
+
 ## Algorithms to Live By
 The beginniing of my obsession with *Explore and Exploit*
 

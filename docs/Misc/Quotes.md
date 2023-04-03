@@ -14,6 +14,8 @@ I have so much left I want to do. I hate wasting time - Steven Hawking
 
 “If I only had an hour to chop down a tree, I would spend the first 45 minutes sharpening my axe.” – Abraham Lincoln
 
+“What one programmer can do in one month, two programmers can do in two months. - Frederick P. Brooks
+
 
 ## Misc
 Choose again - Dan Simmons, Rise of Endymion
@@ -27,3 +29,5 @@ Writing is nature's way of letting you know how sloppy your thinking is - Dick G
 “A man does not have himself killed for a half pence a day or for a petty distinction. You must speak to the soul in order to electrify him.” - Napoleon Bonaparte
 
 “Glory is fleeting, but obscurity is forever” ― Napoléon Bonaparte
+
+"Socialism is a philosophy of failure, the creed of ignorance, and the gospel of envy, its inherent virtue is the equal sharing of misery" - Winston Churchill

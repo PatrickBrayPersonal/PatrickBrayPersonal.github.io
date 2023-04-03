@@ -12,21 +12,22 @@ kanban-plugin: basic
 - [ ] 2. Manage Spell checking
 - [ ] 3. Work on the landing page
 - [ ] Delete the blog
-- [ ] change the icon to something better
+- [ ] 2. Essays could be split out into Essays and Research Topics. and topics could link to different forms of media
 
 
 ## IN PROGRESS
 
-- [ ] change the name to Coppermind
 
 
 ## COMPLETE
 
 **Complete**
+- [x] change the name to Coppermind
 
 
 ## GIVE UP
 
+- [ ] change the icon to something better
 
 
 

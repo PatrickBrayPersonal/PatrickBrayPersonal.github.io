@@ -14,3 +14,6 @@
 	- providing different responses based on students current understanding
 - Analyze Satelitte imagery for parking spots. run streaming. demonstrate ability to do this in production.
 - Fine tuned LLM on government RFPs
+- train  a language model to predict price for healthcare operation from hospital
+	- https://www.dolthub.com/blog/2022-12-02-open-source-hospital-price-transparency/
+- 
