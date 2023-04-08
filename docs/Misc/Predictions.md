@@ -1,1 +1,1 @@
-[[Non-Fiction#SuperForecasters]]
+[[Superforecasters]]

@@ -1,4 +1,3 @@
-# WSJ Future of Everything
 ## Fixing the Microplastics Problem in Clothes
 [Spotify](https://open.spotify.com/episode/1585gCX5pFsShkURoQkDDP?si=7Z-J6WJWSqO9Ec_ONjstrQ)
 

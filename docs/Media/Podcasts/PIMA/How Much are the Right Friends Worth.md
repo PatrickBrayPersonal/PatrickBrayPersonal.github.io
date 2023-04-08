@@ -1,0 +1,2 @@
+## 87: How much are the Right Friends worth
+Raj Chetty shows that just knowing and associating with rich people will increase your lifetime success. Regardless of your parent's income levels. Economic mobility increases greatly in areas where there is more interspersal of people accross economic backgrounds.

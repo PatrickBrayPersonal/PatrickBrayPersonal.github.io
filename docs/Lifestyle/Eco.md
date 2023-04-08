@@ -4,7 +4,7 @@
 [Framework](https://frame.work/)
 
 ## Plastic Consumption
-[[WSJ Future of Everything#Fixing the Microplastics Problem in Clothes]]
+[[Fixing the Microplastics Problem in Clothes]]
 
 ## Plastic Consumption: Reporting
 Idea: *write down every piece of plastic you purchase in a given month*
