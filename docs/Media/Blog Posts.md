@@ -28,3 +28,5 @@ Creative solutions like this can move humanity forward with AI. Rather than stun
 
 
 
+# Ghosts of Washington Square Park
+https://www.washingtonsquareparkblog.com/2021/10/12/skeletons-washington-square/
