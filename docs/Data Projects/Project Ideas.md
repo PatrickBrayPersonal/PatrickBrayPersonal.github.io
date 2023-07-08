@@ -22,3 +22,9 @@
 	- make a streamlit app  
 - Project Idea  
 	- Build a baseline ml repo based on PdM and cookie cutter ds. build in MLFow integration, sphinx, etc. with vs code settings. add the model registry.
+	- get ideas from [[MLE tutorial]]
+- Spotify Streamlit Application
+- dynasty RL using KTC trade valuations
+	- research papers on RL agents that can make trades
+		- monopoly, diplomacy, etc.
+- 
