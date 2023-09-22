@@ -2,7 +2,6 @@
 tags:
   - categories
 ---
-
 ```dataview
 table without id
 	file.link as Meeting,
@@ -14,4 +13,3 @@ where
 	!contains(file.name,"Template")
 sort date desc
 limit 100
-```
