@@ -6,3 +6,6 @@
 https://refinedmind.co/
 
 [Hacker News Blog Thread](https://news.ycombinator.com/item?id=35164819)
+
+https://github.com/kepano/kepano-obsidian
+

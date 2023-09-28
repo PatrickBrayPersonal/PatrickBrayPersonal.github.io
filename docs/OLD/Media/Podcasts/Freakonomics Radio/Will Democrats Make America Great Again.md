@@ -1,1 +1,0 @@
-Gina Raimondo, secretary of commerce, talks about the [[CHIPS Act]] stressing its importance to national security.

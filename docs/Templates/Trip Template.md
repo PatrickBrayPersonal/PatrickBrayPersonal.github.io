@@ -6,5 +6,6 @@ end:
 loc: 
 tags:
   - trips
+  - "#journal"
 ---
 

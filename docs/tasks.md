@@ -1,0 +1,2 @@
+- [ ] look into sync
+- [ ] figure out what the deal with {{Date}} is

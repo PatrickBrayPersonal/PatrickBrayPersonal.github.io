@@ -5,4 +5,4 @@ He was a ecological researcher who started from the ground up at sports illustra
 
 He posits that the world would be better off if people found fields where their skills were lacking (not in demand) and targeted those.
 
-[[Career]]
+[[Career Thoughts]]
